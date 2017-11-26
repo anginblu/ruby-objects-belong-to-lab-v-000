@@ -3,5 +3,6 @@ class Post
 
   def self.author
     author = Author.new
+    @name = author
 
 end
