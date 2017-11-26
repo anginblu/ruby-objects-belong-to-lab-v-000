@@ -3,8 +3,6 @@ class Post
 
   def initialize
     @name = Author.new
-    
-
   end
 
 end
