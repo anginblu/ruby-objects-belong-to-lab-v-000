@@ -3,7 +3,6 @@ class Post
 
   def author
     @author = Author.new
-    self.author
 
   end
 
